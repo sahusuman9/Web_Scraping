@@ -5,7 +5,7 @@ This project demonstrates how to scrape data from **50 static HTML pages** repre
 
 ## 🧪 Technologies Used
 
-- Python 3.x
+- Python 3.12
 - BeautifulSoup4
 - pandas
 - Jupyter Notebook
